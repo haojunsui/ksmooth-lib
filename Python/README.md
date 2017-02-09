@@ -1,4 +1,4 @@
-# ksmooth-lib
+# ksmooth-lib (Python)
 
 
 ## License
